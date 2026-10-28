@@ -1,0 +1,17 @@
+# Ambientes e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Configuracoes e arquivos locais
+.env
+.env.*
+!.env.example
+.tmp/
+.openclaude/
+.codex/
+.agents/
+.aws/
+*.log

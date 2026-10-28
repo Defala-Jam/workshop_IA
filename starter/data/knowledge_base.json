@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "title": "Science Tutor Workshop Knowledge Base",
+    "language": "en",
+    "schema_version": "1.0",
+    "mode": "offline_demo",
+    "question_count": 36,
+    "topic_count": 6,
+    "notice": "This bundled fallback contains original workshop questions for offline use."
+  },
+  "topics": [
+    {
+      "id": "plate_tectonics",
+      "name": "Plate Tectonics",
+      "category": "earth_science",
+      "description": "Interactions among lithospheric plates.",
+      "questions": [
+        {
+          "id": "pt_001",
+          "question": "Which statement best describes a convergent plate boundary?",
+          "options": {
+            "a": "Two plates move apart.",
+            "b": "Two plates move toward each other.",
+            "c": "Two plates remain fixed.",
+            "d": "Only ocean water moves."
+          },
+          "answer": "b",
+          "explanation": "Convergent boundaries form where plates move toward one another.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "pt_002",
+          "question": "Which process most directly creates new oceanic crust at a mid-ocean ridge?",
+          "options": {
+            "a": "Subduction",
+            "b": "Divergence and magma rising",
+            "c": "Weathering",
+            "d": "Deposition"
+          },
+          "answer": "b",
+          "explanation": "At divergent boundaries, magma rises and cools to form new crust.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "pt_003",
+          "question": "A transform boundary is characterized mainly by plates that...",
+          "options": {
+            "a": "slide past each other.",
+            "b": "move vertically without friction.",
+            "c": "melt completely.",
+            "d": "stop moving."
+          },
+          "answer": "a",
+          "explanation": "Transform boundaries involve lateral motion of plates.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "pt_004",
+          "question": "What type of plate boundary forms when two plates move toward each other?",
+          "options": {
+            "a": "Divergent",
+            "b": "Convergent",
+            "c": "Transform",
+            "d": "Passive"
+          },
+          "answer": "b",
+          "explanation": "Convergent boundaries form where plates move toward each other and compress the crust.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "pt_005",
+          "question": "Which process creates new oceanic crust at a divergent boundary?",
+          "options": {
+            "a": "New crust forming as plates separate",
+            "b": "Subduction at a convergent boundary",
+            "c": "A river depositing sediment",
+            "d": "A glacier melting"
+          },
+          "answer": "a",
+          "explanation": "At divergent boundaries, plates separate while magma rises and cools into new crust.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "pt_006",
+          "question": "Which boundary type is represented by the two plates moving in opposite directions along the fault?",
+          "options": {
+            "a": "Convergent",
+            "b": "Divergent",
+            "c": "Transform",
+            "d": "Subduction only"
+          },
+          "answer": "c",
+          "explanation": "Transform boundaries involve plates sliding parallel to the boundary.",
+          "source": "workshop_original"
+        }
+      ]
+    },
+    {
+      "id": "water_cycle",
+      "name": "Water Cycle",
+      "category": "earth_science",
+      "description": "Movement of water through Earth systems.",
+      "questions": [
+        {
+          "id": "wc_001",
+          "question": "Which process changes liquid water at Earth’s surface into water vapor?",
+          "options": {
+            "a": "Condensation",
+            "b": "Evaporation",
+            "c": "Precipitation",
+            "d": "Infiltration"
+          },
+          "answer": "b",
+          "explanation": "Evaporation changes liquid water into water vapor.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "wc_002",
+          "question": "What happens during condensation?",
+          "options": {
+            "a": "Water vapor becomes liquid droplets.",
+            "b": "Liquid water becomes vapor.",
+            "c": "Water flows downhill.",
+            "d": "Ice becomes rock."
+          },
+          "answer": "a",
+          "explanation": "Condensation forms liquid droplets from water vapor.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "wc_003",
+          "question": "Which reservoir contains most of Earth’s liquid surface water?",
+          "options": {
+            "a": "Rivers",
+            "b": "Clouds",
+            "c": "Oceans",
+            "d": "Soil"
+          },
+          "answer": "c",
+          "explanation": "Oceans contain the vast majority of Earth’s surface water.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "wc_004",
+          "question": "Which water-cycle process moves water from clouds to Earth’s surface?",
+          "options": {
+            "a": "Evaporation",
+            "b": "Precipitation",
+            "c": "Condensation",
+            "d": "Infiltration"
+          },
+          "answer": "b",
+          "explanation": "Precipitation moves water from clouds to Earth’s surface.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "wc_005",
+          "question": "What process describes water moving downhill across the land surface?",
+          "options": {
+            "a": "Condensation",
+            "b": "Runoff",
+            "c": "Transpiration",
+            "d": "Freezing"
+          },
+          "answer": "b",
+          "explanation": "Surface runoff is water flowing downslope toward streams, lakes, or oceans.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "wc_006",
+          "question": "What is the downward movement of water into soil called?",
+          "options": {
+            "a": "Infiltration",
+            "b": "Evaporation",
+            "c": "Precipitation",
+            "d": "Sublimation"
+          },
+          "answer": "a",
+          "explanation": "Infiltration is the movement of surface water into soil.",
+          "source": "workshop_original"
+        }
+      ]
+    },
+    {
+      "id": "erosion",
+      "name": "Erosion and Deposition",
+      "category": "earth_science",
+      "description": "Weathering, transport, erosion, and deposition.",
+      "questions": [
+        {
+          "id": "er_001",
+          "question": "Which process transports weathered sediment from one place to another?",
+          "options": {
+            "a": "Erosion",
+            "b": "Condensation",
+            "c": "Photosynthesis",
+            "d": "Respiration"
+          },
+          "answer": "a",
+          "explanation": "Erosion is the transport of weathered material.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "er_002",
+          "question": "Deposition occurs when transported sediment...",
+          "options": {
+            "a": "begins moving faster.",
+            "b": "settles out of the transporting medium.",
+            "c": "turns into magma.",
+            "d": "evaporates."
+          },
+          "answer": "b",
+          "explanation": "Deposition occurs when sediments are dropped or settle.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "er_003",
+          "question": "Which agent can cause both erosion and deposition?",
+          "options": {
+            "a": "Flowing water",
+            "b": "Sunlight only",
+            "c": "Magnetism only",
+            "d": "Cell division"
+          },
+          "answer": "a",
+          "explanation": "Flowing water can erode, transport, and deposit sediment.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "er_004",
+          "question": "Where is erosion usually strongest in a river meander?",
+          "options": {
+            "a": "The outside of the bend",
+            "b": "The inside of the bend",
+            "c": "Both exactly equal",
+            "d": "Neither"
+          },
+          "answer": "a",
+          "explanation": "The outside of a bend typically has faster flow and stronger erosion.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "er_005",
+          "question": "Why does a river delta form where a river enters a larger body of water?",
+          "options": {
+            "a": "The river speeds up and removes all sediment.",
+            "b": "The river slows and deposits sediment.",
+            "c": "The water turns into vapor instantly.",
+            "d": "The river becomes tectonic crust."
+          },
+          "answer": "b",
+          "explanation": "Reduced flow velocity allows sediment to settle and accumulate.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "er_006",
+          "question": "Which process describes sediment settling out of moving water?",
+          "options": {
+            "a": "Weathering",
+            "b": "Erosion",
+            "c": "Deposition",
+            "d": "Evaporation"
+          },
+          "answer": "c",
+          "explanation": "Deposition occurs when transported sediment settles.",
+          "source": "workshop_original"
+        }
+      ]
+    },
+    {
+      "id": "cells",
+      "name": "Cells",
+      "category": "life_science",
+      "description": "Cell structures and transport across membranes.",
+      "questions": [
+        {
+          "id": "ce_001",
+          "question": "Which structure contains most of a eukaryotic cell’s genetic material?",
+          "options": {
+            "a": "Nucleus",
+            "b": "Cell wall",
+            "c": "Ribosome only",
+            "d": "Cytoplasm only"
+          },
+          "answer": "a",
+          "explanation": "The nucleus contains most of the cell’s DNA.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ce_002",
+          "question": "Which organelle is strongly associated with cellular respiration and ATP production?",
+          "options": {
+            "a": "Mitochondrion",
+            "b": "Cell wall",
+            "c": "Chlorophyll molecule only",
+            "d": "Vacuole only"
+          },
+          "answer": "a",
+          "explanation": "Mitochondria are central to aerobic cellular respiration.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ce_003",
+          "question": "Which structure is present in plant cells but not animal cells?",
+          "options": {
+            "a": "Cell membrane",
+            "b": "Cytoplasm",
+            "c": "Cell wall",
+            "d": "DNA"
+          },
+          "answer": "c",
+          "explanation": "Plant cells have a rigid cell wall outside the membrane.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ce_004",
+          "question": "Which cell structure contains most of a eukaryotic cell’s genetic material?",
+          "options": {
+            "a": "Nucleus",
+            "b": "Cell wall",
+            "c": "Ribosome",
+            "d": "Cytoplasm"
+          },
+          "answer": "a",
+          "explanation": "The nucleus contains most of a eukaryotic cell’s DNA.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ce_005",
+          "question": "Which organelle in plant cells is associated with photosynthesis?",
+          "options": {
+            "a": "Nucleus",
+            "b": "Chloroplasts",
+            "c": "Cell wall",
+            "d": "Mitochondria"
+          },
+          "answer": "b",
+          "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ce_006",
+          "question": "Which process is the movement of water across a selectively permeable membrane?",
+          "options": {
+            "a": "Mitosis",
+            "b": "Osmosis",
+            "c": "Transcription",
+            "d": "Combustion"
+          },
+          "answer": "b",
+          "explanation": "Osmosis is the movement of water across a selectively permeable membrane.",
+          "source": "workshop_original"
+        }
+      ]
+    },
+    {
+      "id": "ecosystems",
+      "name": "Ecosystems",
+      "category": "life_science",
+      "description": "Energy flow and interactions in ecosystems.",
+      "questions": [
+        {
+          "id": "ec_001",
+          "question": "In a food chain, producers obtain energy most directly from...",
+          "options": {
+            "a": "sunlight.",
+            "b": "top predators.",
+            "c": "decomposers only.",
+            "d": "rocks."
+          },
+          "answer": "a",
+          "explanation": "Most ecosystems ultimately depend on solar energy captured by producers.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ec_002",
+          "question": "What is the main role of decomposers in an ecosystem?",
+          "options": {
+            "a": "Recycle nutrients from dead material",
+            "b": "Create sunlight",
+            "c": "Stop all energy transfer",
+            "d": "Make tectonic plates"
+          },
+          "answer": "a",
+          "explanation": "Decomposers return nutrients to the ecosystem.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ec_003",
+          "question": "Which is an abiotic component of an ecosystem?",
+          "options": {
+            "a": "Fish",
+            "b": "Grass",
+            "c": "Water",
+            "d": "Bacteria"
+          },
+          "answer": "c",
+          "explanation": "Water is nonliving and therefore abiotic.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ec_004",
+          "question": "In a food chain where a rabbit is eaten by a snake, which organism receives energy directly from the rabbit?",
+          "options": {
+            "a": "Grass",
+            "b": "Snake",
+            "c": "Hawk only",
+            "d": "Sun"
+          },
+          "answer": "b",
+          "explanation": "Energy moves from the rabbit to the snake that eats it.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ec_005",
+          "question": "Which level of the energy pyramid contains the greatest amount of available energy?",
+          "options": {
+            "a": "Top predators",
+            "b": "Secondary consumers",
+            "c": "Primary consumers",
+            "d": "Producers"
+          },
+          "answer": "d",
+          "explanation": "Energy is greatest at the producer level and decreases upward.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "ec_006",
+          "question": "Which of these is an abiotic factor in an ecosystem?",
+          "options": {
+            "a": "Fish",
+            "b": "Plants",
+            "c": "Water",
+            "d": "Both fish and plants"
+          },
+          "answer": "c",
+          "explanation": "Water is a nonliving environmental factor.",
+          "source": "workshop_original"
+        }
+      ]
+    },
+    {
+      "id": "forces_motion",
+      "name": "Forces and Motion",
+      "category": "physical_science",
+      "description": "Net force, balanced forces, and motion.",
+      "questions": [
+        {
+          "id": "fm_001",
+          "question": "If the net force on an object is zero, its motion...",
+          "options": {
+            "a": "must always stop.",
+            "b": "does not change its velocity.",
+            "c": "must speed up.",
+            "d": "must move in a circle."
+          },
+          "answer": "b",
+          "explanation": "Zero net force means no acceleration; velocity remains constant.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "fm_002",
+          "question": "Newton’s second law relates acceleration to...",
+          "options": {
+            "a": "net force and mass.",
+            "b": "temperature and volume.",
+            "c": "color and density.",
+            "d": "time only."
+          },
+          "answer": "a",
+          "explanation": "Newton’s second law is commonly expressed as F = ma.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "fm_003",
+          "question": "Which quantity includes both magnitude and direction?",
+          "options": {
+            "a": "Mass",
+            "b": "Temperature",
+            "c": "Force",
+            "d": "Time"
+          },
+          "answer": "c",
+          "explanation": "Force is a vector quantity.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "fm_004",
+          "question": "What is the net horizontal force when 50 N acts left and 50 N acts right?",
+          "options": {
+            "a": "0 N",
+            "b": "50 N left",
+            "c": "50 N right",
+            "d": "100 N right"
+          },
+          "answer": "a",
+          "explanation": "Equal 50 N forces in opposite directions cancel.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "fm_005",
+          "question": "If the net force on an object points right, in which direction will it accelerate?",
+          "options": {
+            "a": "Left",
+            "b": "Right",
+            "c": "Up",
+            "d": "It cannot accelerate"
+          },
+          "answer": "b",
+          "explanation": "The larger force is to the right, so the net force points right.",
+          "source": "workshop_original"
+        },
+        {
+          "id": "fm_006",
+          "question": "What does a straight rising line on a position-time graph indicate?",
+          "options": {
+            "a": "Constant position",
+            "b": "Constant speed in one direction",
+            "c": "Random motion",
+            "d": "No passage of time"
+          },
+          "answer": "b",
+          "explanation": "A linear position-time graph has constant slope, which means constant velocity.",
+          "source": "workshop_original"
+        }
+      ]
+    }
+  ]
+}
